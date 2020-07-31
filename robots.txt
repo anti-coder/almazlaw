@@ -1,0 +1,9 @@
+Host: https://almazlaw.space
+Sitemap: https://almazlaw.space/sitemap.xml
+User-agent: *
+Disallow: *.js
+Disallow: *.css
+Disallow: *.ttf
+Disallow: *.jpg 
+Disallow: *.png
+Disallow: *.php
